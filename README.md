@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lxw1973
+- 👋 Hi, I’m liuxiaowei
 - 👀 I’m interested in programme and web security and learning English....
 - 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on github
