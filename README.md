@@ -1,6 +1,6 @@
 # Hi, I'm 刘晓伟 (Bruce_xiaowei) 👋
 
-> 镇赉县融媒体中心 · 关注 **AI 内容合规 / Web 安全 / 前端工程**
+> 媒体技术从业者 · 关注 **AI 内容合规 / Web 安全 / 前端工程**
 >
 > *Media-tech practitioner focused on AI content compliance, web security and front-end engineering.*
 
