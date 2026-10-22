@@ -1,4 +1,4 @@
-# Hi, I'm 刘晓伟 (Bruce_xiaowei) 👋
+# Hi, I'm Bruce_xiaowei 👋
 
 > 媒体技术从业者 · 关注 **AI 内容合规 / Web 安全 / 前端工程**
 >
