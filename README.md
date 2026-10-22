@@ -39,7 +39,6 @@
 - FreeBuf 主页：https://my.freebuf.com/
 - 微信公众号：强壮Python
 - GitHub：https://github.com/lxw1973
-- 微信：xw-1973（添加请注明来意）
 
 ---
 
