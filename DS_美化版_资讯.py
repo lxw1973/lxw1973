@@ -350,13 +350,15 @@ BOOKMARK_CATEGORIES = {
 
 # 在全局常量部分新增
 NEWS_API_ENDPOINT = "https://newsapi.org/v2/everything"
-NEWS_API_KEY = "REDACTED_API_KEY"  # 实际使用时需替换为有效API密钥
+# API Key 从环境变量读取，绝不硬编码进仓库
+# 配置方式：export NEWS_API_KEY=xxxx  或写入 ~/.config/weapons/secrets.env
+NEWS_API_KEY = os.getenv("NEWS_API_KEY", "")
 
 
 # ================== 配置类 ==================
 class EnhancedConfig:
     MIN_POPULARITY = 0
-    SERPER_API_KEY = 'REDACTED_API_KEY'
+    SERPER_API_KEY = os.getenv("SERPER_API_KEY", "")
 
 class PathConfig:
     """统一管理所有文件路径"""
